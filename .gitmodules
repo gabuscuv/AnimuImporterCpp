@@ -1,0 +1,6 @@
+[submodule "Plugins/IM-for-UE5"]
+	path = Plugins/IM-for-UE5
+	url = https://github.com/ydgros/IM-for-UE5.git
+[submodule "Plugins/VRM4U"]
+	path = Plugins/VRM4U
+	url = https://github.com/ruyo/VRM4U.git
